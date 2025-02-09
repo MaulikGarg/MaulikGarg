@@ -1,5 +1,3 @@
-![Header](https://your-image-url.com/header.png)
-
 ## 🌸 Hello, I'm Maulik! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer, designer, and gamer who loves creating innovative solutions and exploring new technologies.
