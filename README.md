@@ -24,12 +24,6 @@ Welcome to my GitHub profile! I'm a passionate developer, designer, and gamer wh
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=MaulikGarg.MaulikGarg)
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
-<p align="center">
-	<picture>
-	 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaulikGarg/MaulikGarg/main/profile-3d-contrib/profile-night-rainbow.svg" />
-	 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaulikGarg/MaulikGarg/main/profile-3d-contrib/profile-gitblock.svg" />
-	 <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/MaulikGarg/MaulikGarg/main/profile-3d-contrib/profile-gitblock.svg" />
-	</picture>
-</p>
+
 
 
