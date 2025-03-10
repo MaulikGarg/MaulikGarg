@@ -9,7 +9,6 @@ Welcome to my GitHub profile! I'm a passionate developer, designer, and gamer wh
 ### 🛠️ Technologies & Tools
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![SFML](https://img.shields.io/badge/SFML-008080?style=flat&logo=SFML&logoColor=white)
 ![SDL](https://img.shields.io/badge/SDL-073763?style=flat&logo=SimpleDirectMediaLayer&logoColor=white)
 
 
