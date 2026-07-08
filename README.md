@@ -5,6 +5,6 @@ i like videogames
 
 ## Skills
 
-![My Skills](https://skillicons.dev/icons?i=c,cpp,js,nodejs,react,express,mongodb,py,bash,git)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,js,java,nodejs,react,express,mongodb,py,bash,git)
 
 
