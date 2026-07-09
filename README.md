@@ -10,10 +10,3 @@ This github account is primarily used for archiving my learning path whilst bein
 ### Currently Learning
 ![Curr](https://skillicons.dev/icons?i=react,mongodb)
 
-## Sundry
-
-#### My hobbies
-nerding around, gaming, reading, chess and writing dum stuff
-#### gAmEs i LoVe
-The Elder Scrolls V: Skyrim, Expedition 33, 原神, Persona 5 Royal, Cyberpunk 2077, NieR: Automata, Final Fantasy VII, Tales Of Berseria, Danganronpa
-
