@@ -9,6 +9,7 @@ This github account is primarily used for archiving my learning path whilst bein
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,js,java,nodejs,express,py,bash,git,ts,react,mongodb,html"/>
 </p>
+
 ### Currently Learning
 <!-- ![Curr](https://skillicons.dev/icons?i=react_native) -->
 React Native
