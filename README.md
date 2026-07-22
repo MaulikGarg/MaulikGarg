@@ -8,5 +8,5 @@ This github account is primarily used for archiving my learning path whilst bein
 ### My Skills
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,js,java,nodejs,express,py,bash,git,ts,react,mongodb)
 ### Currently Learning
-![Curr](https://skillicons.dev/icons?i=reactnative)
+![Curr](https://skillicons.dev/icons?i=react_native)
 
